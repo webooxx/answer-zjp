@@ -58,7 +58,7 @@ ZJP：书上给的东西不完整
 
 XZH：你看看我的代码吧，书上代码，可能是结合了其他程序，所以略微复杂了点。并且需要其他程序配合。
 
-![attach/php.count.online.jpg](php.count.online.jpg?raw=true)
+![php.count.online](img/php.count.online.jpg?raw=true)
 
     <?php
     
