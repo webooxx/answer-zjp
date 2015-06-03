@@ -4,9 +4,9 @@
 
 昨晚我运行这个mysql-_user1.php的时候在22行出错误，而且我var_dump($res)浏览器返回一个布尔值给我，今天早上再运行就变成下载了，这是怎么回事？？
 
-[t1](img/mysqli_result.t1.png?raw=true)
+[!t1](img/mysqli_result.t1.png?raw=true)
 
-[t2](img/mysqli_result.t2.png?raw=true)
+[!t2](img/mysqli_result.t2.png?raw=true)
 
 #### 徐振华  13:36:36
 
@@ -54,7 +54,7 @@ c.) 如果你打开一个 .php 的URL，但是，浏览器的动作却是下载�
 
 执行后返回这个
 
-[t3](img/mysqli_result.t3.png?raw=true)
+[!t3](img/mysqli_result.t3.png?raw=true)
 
 #### 徐振华  13:40:41
 
@@ -240,7 +240,7 @@ http://php.net/manual/zh/class.mysqli-result.php
 
 #### 徐振华  13:52:17
 
-[t4](img/mysqli_result.t4.png?raw=true)
+[!t4](img/mysqli_result.t4.png?raw=true)
 
 #### 徐振华  13:52:53
 
@@ -273,7 +273,7 @@ http://php.net/manual/zh/mysqli-result.fetch-row.php
 
  不对，我在手册搜索fetch_row没有！！！然后我又搜索mysqli_fetch_row
 
-[t5](img/mysqli_result.t5.png?raw=true)
+[!t5](img/mysqli_result.t5.png?raw=true)
 
 #### 徐振华  13:57:22
 
@@ -313,7 +313,7 @@ mysqli_result::fetch_row
 
 #### 郑巨鹏  13:58:57
 
-[t6](img/mysqli_result.t6.png?raw=true)
+[!t6](img/mysqli_result.t6.png?raw=true)
 
 #### 郑巨鹏  13:59:15
 
@@ -530,7 +530,7 @@ $zjp -> sayWangWang(); 会有什么后果？
 
 #### 徐振华  14:11:24
 
-[t3](img/mysqli_result.t3.png?raw=true)
+[!t3](img/mysqli_result.t3.png?raw=true)
 
 #### 徐振华  14:11:33
 
